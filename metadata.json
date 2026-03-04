@@ -1,0 +1,5 @@
+{
+  "name": "GitSnap: Static Image Host",
+  "description": "A serverless image hosting tool that uses GitHub as a backend. Upload images directly to your repository and get permanent URLs for use in other applications.",
+  "requestFramePermissions": []
+}
